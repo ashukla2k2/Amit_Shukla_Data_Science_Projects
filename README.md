@@ -1,39 +1,71 @@
-README
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+</p>
 
-This repository contains a Python script main.py that performs some basic data analysis on an Airbnb listings dataset. The analysis aims to answer the following questions:
 
-What is the average price of listings by neighborhood?
-What is the most common room type and its percentage in the dataset?
-Is there a relationship between the number of reviews and the availability of listings?
-Prerequisites
-Python 3.6 or later
-pandas, pandas-profiling, ydata-profiling, and sklearn Python packages
-Installation
-To run this script, you need to install the required Python packages. You can install them using the following command:
+<h1 align="center">Exploring Airbnb Listings in the UK: Insights from Data Analysis</h1>
 
-Copy code
-pip install pandas pandas-profiling ydata-profiling scikit-learn
-Usage
-To run the script, navigate to the directory where the script is located and run the following command:
+<h4 align="center">https://medium.com/@ashukla2k2/exploring-airbnb-listings-in-the-uk-insights-from-data-analysis-1a3df455187e
+</h4>
 
-Copy code
-python airbnb_analysis.py
-The script will read the abnbuklistings.csv file and perform the analysis. The results will be printed to the console and some visualizations will be displayed.
 
-Code explanation
-The Python script starts by importing the necessary packages, including pandas, pandas-profiling, ydata-profiling, and sklearn.
 
-It then reads in the Airbnb listings dataset from a CSV file using pandas.
+<div align="center">
 
-Next, it creates a profile report of the dataset using the ProfileReport function from the pandas-profiling package. This report provides an overview of the dataset's variables, including data types, missing values, and basic statistics.
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 
-The script then drops the neighbourhood_group and license columns since they have no values.
+</div>
 
-The last_review column is converted to a datetime type using the pd.to_datetime function.
+---
 
-Next, the script checks for missing values in the last_review and reviews_per_month columns. It uses the SimpleImputer class from sklearn to fill in missing values with the mean value of the column.
+<p align="center"> The project titled "Exploring Airbnb Listings in the UK: Insights from Data Analysis" is a data-driven analysis of Airbnb listings in the UK. The author utilizes Python libraries and data visualization techniques to extract insights and answer key questions about the Airbnb market in the UK. The analysis provides valuable information for businesses and hosts, such as the average price of listings by neighborhood, the most common room types and their percentages, and the relationship between the number of reviews and the availability of listings. The project emphasizes the importance of data-driven decision-making in the hospitality industry and offers valuable insights for stakeholders in the Airbnb market.
+    <br> 
+</p>
 
-The script then answers the three questions listed above using pandas functions such as groupby, value_counts, and visualizations from seaborn and matplotlib.
 
-Conclusion
-This Python script provides some basic insights into the Airbnb listings dataset. However, more in-depth analysis can be performed on this dataset to gain a better understanding of the factors that affect the prices and availability of Airbnb listings.
+
+## 🧐 About <a name = "about"></a>
+
+The purpose of this project is to provide a data-driven analysis of Airbnb listings in the UK and offer valuable insights and implications for businesses and hosts in the hospitality industry. The project aims to answer key questions about the Airbnb market in the UK and highlight the importance of data-driven decision-making for stakeholders in the industry.
+
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+Download the project files from the GitHub repository to your local machine. You can do this by clicking on the green "Code" button and selecting "Download ZIP", or by cloning the repository using Git.
+
+Extract the downloaded ZIP file to a folder of your choice.
+
+
+
+### Prerequisites
+
+The prerequisites for the provided code are:
+
+pandas library
+pandas_profiling library
+ydata_profiling library
+sketch library
+sklearn library with the SimpleImputer class
+matplotlib library
+Additionally, the code reads a csv file named 'abnbuklistings.csv' in the current working directory. Therefore, the csv file should be present in the same directory as the code.
+
+
+
+### Installing
+
+1. Clone the repository onto your local machine: git clone https://github.com/your-username/your-repo.git
+
+2. Navigate into the project directory: cd your-repo
+
+3. Create a virtual environment: python3 -m venv env
+
+4. Activate the virtual environment: source env/bin/activate
+
+5. Install the required packages: pip install -r requirements.txt
+
+6. Open the main.ipynb in your CLI or Jupyter Notebook and explore the code :)
+
+
