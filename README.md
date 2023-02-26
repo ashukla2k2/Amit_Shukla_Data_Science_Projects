@@ -1,6 +1,6 @@
 README
 
-This repository contains a Python script airbnb_analysis.py that performs some basic data analysis on an Airbnb listings dataset. The analysis aims to answer the following questions:
+This repository contains a Python script main.py that performs some basic data analysis on an Airbnb listings dataset. The analysis aims to answer the following questions:
 
 What is the average price of listings by neighborhood?
 What is the most common room type and its percentage in the dataset?
