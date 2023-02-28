@@ -26,10 +26,15 @@
 </p>
 
 
-
 ## 🧐 About <a name = "about"></a>
 
 The purpose of this project is to provide a data-driven analysis of Airbnb listings in the UK and offer valuable insights and implications for businesses and hosts in the hospitality industry. The project aims to answer key questions about the Airbnb market in the UK and highlight the importance of data-driven decision-making for stakeholders in the industry.
+
+## 🧐 Project Motivation <a name = "about"></a>
+
+The project titled "Exploring Airbnb Listings in the UK: Insights from Data Analysis" provides valuable insights for businesses and hosts in the hospitality industry, emphasizing the importance of data-driven decision-making. The project is motivated by the need to understand the Airbnb market in the UK and to provide actionable information for stakeholders in the industry. The analysis highlights the most common room types, average prices by neighborhood, and the relationship between the number of reviews and the availability of listings. By providing this information, the project aims to support data-driven decision-making and promote the growth and success of the Airbnb market in the UK.
+
+
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
@@ -66,6 +71,6 @@ Additionally, the code reads a csv file named 'abnbuklistings.csv' in the curren
 
 5. Install the required packages: pip install -r requirements.txt
 
-6. Open the main.ipynb in your CLI or Jupyter Notebook and explore the code :)
+6. Open the airbnb_analysis in your CLI or Jupyter Notebook and explore the code :)
 
 
