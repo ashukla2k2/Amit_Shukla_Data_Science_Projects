@@ -1,5 +1,5 @@
 
-# NSE Stock Price Predictor: Analyzing and Forecasting HDFC Bank Stock Prices using Machine Learning Techniques
+# NSE Stock Price Predictor: Analyzing and Forecasting HDFC Bank Stock Prices using Machine Learning Techniques (Based on real, historic data programmatically downloaded from National Stock Exchange using yfinance APIs)
 
 
 ![image](https://user-images.githubusercontent.com/125590667/234666521-723d4e77-9c6d-4719-94f3-32eec0bfd878.png)
