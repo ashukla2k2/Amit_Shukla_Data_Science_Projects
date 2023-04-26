@@ -6,14 +6,6 @@
 ![image](https://user-images.githubusercontent.com/125590667/234666681-777306d6-98aa-4e44-b0f8-a60e01bf4ed6.png)
 
 
-## Acknowledgements
-
-I would like to express my gratitude to everyone who contributed to the completion of this project. Firstly, I want to thank the team at Udacity for providing me with the knowledge and skills necessary to complete this project. I also want to thank my mentor for their guidance and support throughout the process.
-
-Finally, I would like to express my deepest appreciation to the open-source community (Github), specifically https://github.com/Braullie/Udacity-Capstone-Project-Stock-Price-Predictor who was the inspiration behind orignal idea that sparked in my mind and further evolved into the experimentation with Indian Stocks, based on programatically downloaded data from National Stock Exchange. 
-
-Thank you all for your contribution and support.
-
 
 ## Data Visualization
 
@@ -94,3 +86,13 @@ The Random Forest Regression model is trained and evaluated using the sklearn pa
 # Conclusion
 
 The project demonstrates the effectiveness of different regression techniques in predicting the adjusted closing price of a stock. The models built show promising results, with the Random Forest Regression model being the best performer, with a mean absolute error of 0.0494. The project provides a useful framework for predicting stock prices using regression techniques, and can be adapted to other stocks and datasets.
+
+
+
+## Acknowledgements
+
+I would like to express my gratitude to everyone who contributed to the completion of this project. Firstly, I want to thank the team at Udacity for providing me with the knowledge and skills necessary to complete this project. I also want to thank my mentor for their guidance and support throughout the process.
+
+Finally, I would like to express my deepest appreciation to the open-source community (Github), specifically https://github.com/Braullie/Udacity-Capstone-Project-Stock-Price-Predictor who was the inspiration behind orignal idea that sparked in my mind and further evolved into the experimentation with Indian Stocks, based on programatically downloaded data from National Stock Exchange. 
+
+Thank you all for your contribution and support.
