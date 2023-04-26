@@ -87,7 +87,7 @@ The Random Forest Regression model is trained and evaluated using the sklearn pa
 
 The project demonstrates the effectiveness of different regression techniques in predicting the adjusted closing price of a stock. The models built show promising results, with the Random Forest Regression model being the best performer, with a mean absolute error of 0.0494. The project provides a useful framework for predicting stock prices using regression techniques, and can be adapted to other stocks and datasets.
 
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## Acknowledgements
 
