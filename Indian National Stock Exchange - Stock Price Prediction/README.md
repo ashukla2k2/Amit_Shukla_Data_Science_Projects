@@ -10,7 +10,7 @@
 ## Data Visualization
 
 Various data visualizations such as line charts, scatterplots, and KDE plots have been utilized to represent different aspects of the dataset. These visualizations have been chosen based on the type of data being plotted, such as time series data or numerical data, and have been tailored to best convey the insights gained from the data exploration process. For example, the line chart was used to visualize the trends in stock prices over time, while the scatterplot was used to investigate correlations between different features. The visualizations are labeled, titled, and color-coded appropriately to ensure ease of interpretation.
-## Methodology
+
 
 ### Data preprocessing
 The project documentation includes clear and detailed descriptions of all data preprocessing steps that were taken, including any abnormalities or characteristics about the data that needed to be addressed. The team also provides justifications for not performing certain preprocessing steps when appropriate.
